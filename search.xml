@@ -223,7 +223,7 @@
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="经典音乐"><a class="markdownIt-Anchor" href="#经典音乐"></a> 经典音乐</h2>    <div id="aplayer-RcnfEwow" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="3048372179" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"    ></div><h2 id="coding-music"><a class="markdownIt-Anchor" href="#coding-music"></a> Coding Music</h2>    <div id="aplayer-vgdkqOwi" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2352005537" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="经典音乐"><a class="markdownIt-Anchor" href="#经典音乐"></a> 经典音乐</h2>    <div id="aplayer-DOoxrMAx" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="3048372179" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"    ></div><h2 id="coding-music"><a class="markdownIt-Anchor" href="#coding-music"></a> Coding Music</h2>    <div id="aplayer-fDLBxlHy" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2352005537" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
@@ -241,22 +241,22 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>记录幸福，留住瞬间</title>
+      <link href="/photos/index.html"/>
+      <url>/photos/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img" src='https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/IMG_0191.JPG'>  <figcaption>  <div class="gallery-group-name">北京</div>  <p>北京往事</p>  <a href='/photos/%E8%AE%B0%E5%BD%95%E5%8C%97%E4%BA%AC'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png'>  <figcaption>  <div class="gallery-group-name">2019</div>  <p>2019所见所得</p>  <a href='/photos/%E8%AE%B0%E5%BD%952019'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>记录幸福，留住瞬间</title>
-      <link href="/photos/index.html"/>
-      <url>/photos/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img" src='https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/IMG_0191.JPG'>  <figcaption>  <div class="gallery-group-name">北京</div>  <p>北京往事</p>  <a href='/photos/%E8%AE%B0%E5%BD%95%E5%8C%97%E4%BA%AC'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png'>  <figcaption>  <div class="gallery-group-name">2019</div>  <p>2019所见所得</p>  <a href='/photos/%E8%AE%B0%E5%BD%952019'></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
       
     </entry>
     
